@@ -1,9 +1,9 @@
-# Das Würfelbrett
-Das ultimative 3D Würfel Tool für Spieler die mal wieder keine Würfel 
-zur Hand haben aber Würfel Spiele zocken wollen.
+# Würfelbrett
+Das ultimative 3D Würfel Tool für Spieler die  keine Würfel zur Hand 
+haben; aber Würfel Spiele zocken wollen.
 - Mit Würfel festsetzen Modus.
 
-Das Tool wurde mit Python 3.12 geschrieben und setzt eine pip 
+Das Tool ist mit Python 3.12 geschrieben worden und setzt eine pip 
 installierte PyQt5 Umgebung sowie ein funktionierendes Python venv 
 voraus.
 
