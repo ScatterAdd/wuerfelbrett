@@ -1,7 +1,7 @@
 # Das Würfelbrett
-Das ultimative Würfel Tool für Spieler die mal wieder keine Würfel zur 
-Hand haben aber Würfel Spiele zocken wollen.
-Mit Würfel festsetzen Modus.
+Das ultimative 3D Würfel Tool für Spieler die mal wieder keine Würfel 
+zur Hand haben aber Würfel Spiele zocken wollen.
+- Mit Würfel festsetzen Modus.
 
 Das Tool wurde mit Python 3.12 geschrieben und setzt eine pip 
 installierte PyQt5 Umgebung sowie ein funktionierendes Python venv 
@@ -9,6 +9,7 @@ voraus.
 
 Im Script Kopf bei den import Anweisungen sind weitere Qt5 Pakete, 
 die zusätzlich mit "pip install paketname" installiert werden müssen.
+Checkt euer Terminal output dafür.
 
 ## Installation
 Das Script in ein Verzeichnis eigener Wahl herunterladen. Mit einem 
