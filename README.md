@@ -9,11 +9,12 @@ voraus.
 
 Im Script Kopf bei den import Anweisungen sind weitere Qt5 Pakete, 
 die zusätzlich mit "pip install paketname" installiert werden müssen.
-Checkt euer Terminal output dafür.
+Checkt euer Terminal output für weitere Infos.
 
 ## Installation
-Das Script in ein Verzeichnis eigener Wahl herunterladen. Mit einem 
-Terminal in das Verzeichnis hinein wechseln und 
+Installation ist übertrieben.Das Script in ein Verzeichnis eigener 
+Wahl herunterladen. Mit einem Terminal in das Verzeichnis hinein 
+wechseln und 
 
 python wuerfelbrett.py
 
