@@ -1,3 +1,14 @@
+"""
+Würfelbrett
+
+Copyright (C) 2025 Uwe Kletscher (ScatterAdd)
+This project is licensed under the GNU General Public License Version 3 (GPL-3.0).
+You are allowed to use, modify, and distribute this project,
+provided that all modified versions are also released under the GPL-3.0 license.
+
+See LICENSE for the full license text.
+"""
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QPushButton, QLabel, QComboBox, QHBoxLayout, QCheckBox, QGridLayout
 from PyQt5.QtGui import QColor
